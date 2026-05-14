@@ -1,0 +1,14 @@
+.terraform
+.terraform.lock.hcl
+terraform.tfstate
+terraform.tfstate.backup
+
+*.zip
+*.log
+*.txt
+*.json
+*.yaml
+*.yml
+*.md
+*.sh
+*.bat
